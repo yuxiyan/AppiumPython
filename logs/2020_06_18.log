@@ -1,0 +1,12 @@
+2020-06-18 17:43:14,496 logger.py [line:35] INFO 运行成功
+2020-06-18 17:44:30,585 logger.py [line:35] INFO 运行成功
+2020-06-18 17:44:52,687 logger.py [line:43] CRITICAL 'NoneType' object has no attribute 'click'
+2020-06-18 17:48:13,019 logger.py [line:35] INFO 运行成功
+2020-06-18 17:48:34,237 logger.py [line:43] CRITICAL 'NoneType' object has no attribute 'click'
+2020-06-18 18:02:23,631 logger.py [line:35] INFO 运行成功
+2020-06-18 18:03:20,615 logger.py [line:35] INFO 运行成功
+2020-06-18 18:04:13,677 logger.py [line:35] INFO 运行成功
+2020-06-18 18:05:08,860 logger.py [line:35] INFO 运行成功
+2020-06-18 18:06:08,134 logger.py [line:35] INFO 运行成功
+2020-06-18 18:07:05,792 logger.py [line:35] INFO 运行成功
+2020-06-18 18:07:24,995 logger.py [line:43] CRITICAL 'NoneType' object has no attribute 'click'

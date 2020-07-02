@@ -1,0 +1,21 @@
+2020-07-01 11:06:10:061 [Appium] Welcome to Appium v1.17.0
+2020-07-01 11:06:10:062 [Appium] Non-default server args:
+2020-07-01 11:06:10:063 [Appium]   address: 127.0.0.1
+2020-07-01 11:06:10:063 [Appium]   logFile: startlog.log
+2020-07-01 11:06:10:063 [Appium]   localTimezone: true
+2020-07-01 11:06:10:088 [Appium] Appium REST http interface listener started on 127.0.0.1:4723
+2020-07-01 11:06:47:349 [HTTP] <-- POST /wd/hub/session 500 16 ms - 2711
+2020-07-01 11:06:47:349 [HTTP] 
+2020-07-01 11:07:04:590 [HTTP] --> POST /wd/hub/session
+2020-07-01 11:07:04:590 [HTTP] {"capabilities":{"firstMatch":[{"platformName":"Android","appium:platformVersion":"7.1.1","appium:deviceName":"9a57fa4a","appium:appPackage":"com.xueqiu.android","appium:appActivity":".view.WelcomeActivityAlias","appium:noSign":true,"appium:app":"/Users/xueqiu/PycharmProjects/AppiumPython/app/xueqiu.apk","appium:noReset":true}]},"desiredCapabilities":{"platformName":"Android","platformVersion":"7.1.1","deviceName":"9a57fa4a","appPackage":"com.xueqiu.android","appActivity":".view.WelcomeActivityAlias","noSign":true,"app":"/Users/xueqiu/PycharmProjects/AppiumPython/app/xueqiu.apk","noReset":true}}
+2020-07-01 11:07:04:592 [W3C] Calling AppiumDriver.createSession() with args: [{"platformName":"Android","platformVersion":"7.1.1","deviceName":"9a57fa4a","appPackage":"com.xueqiu.android","appActivity":".view.WelcomeActivityAlias","noSign":true,"app":"/Users/xueqiu/PycharmProjects/AppiumPython/app/xueqiu.apk","noReset":true},null,{"firstMatch":[{"platformName":"Android","appium:platformVersion":"7.1.1","appium:deviceName":"9a57fa4a","appium:appPackage":"com.xueqiu.android","appium:appActivity":".view.WelcomeActivityAlias","appium:noSign":true,"appium:app":"/Users/xueqiu/PycharmProjects/AppiumPython/app/xueqiu.apk","appium:noReset":true}]}]
+2020-07-01 11:07:04:592 [BaseDriver] Event 'newSessionRequested' logged at 1593572824592 (11:07:04 GMT+0800 (China Standard Time))
+2020-07-01 11:07:04:598 [Appium] 
+2020-07-01 11:07:04:598 [Appium] ======================================================================
+2020-07-01 11:07:04:598 [Appium]   DEPRECATION WARNING:
+2020-07-01 11:07:04:598 [Appium] 
+2020-07-01 11:07:04:598 [Appium]   The 'automationName' capability was not provided in the desired 
+2020-07-01 11:07:04:599 [Appium]   capabilities for this Android session
+2020-07-01 11:07:04:599 [Appium] 
+2020-07-01 11:07:04:599 [Appium]   Setting 'automationName=UiAutomator2' by default and using the 
+2020-07-01 11:07:04:599 [Appium]   UiAutomator2 Driver

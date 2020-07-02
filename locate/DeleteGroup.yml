@@ -1,0 +1,24 @@
+start_loc:
+  - id
+  - com.xueqiu.android:id/tv_agree
+click_hangqing_loc:
+  - xpath
+  - //android.widget.TextView[@text='行情']
+click_editgroup_loc:
+  - id
+  - com.xueqiu.android:id/edit_group
+click_managegroup_loc:
+  - id
+  - com.xueqiu.android:id/title2
+click_group_loc:
+  - xpath
+  - //android.widget.EditText[@text='900']/../android.widget.ImageView
+click_confirm_loc:
+  - id
+  - com.xueqiu.android:id/tv_right
+click_finish_loc:
+  - id
+  - com.xueqiu.android:id/action_close
+deletegroup_success_loc:
+  - xpath
+  - //android.widget.TextView[@text='900']

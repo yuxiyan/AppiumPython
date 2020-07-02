@@ -1,0 +1,51 @@
+
+click_start_loc:
+  - id
+  - com.xueqiu.android:id/tv_agree
+click_hangqing_loc:
+  - xpath
+  - //android.widget.TextView[@text='行情']
+click_stock_loc:
+  - xpath
+  - //android.widget.LinearLayout
+click_stockminute_loc:
+  - xpath
+  - //android.widget.TextView[@text='分时']
+click_stockfivedays_loc:
+  - xpath
+  - //android.widget.TextView[@text='五日']
+click_stockday_loc:
+  - xpath
+  - //android.widget.TextView[@text='日K']
+click_stockweek_loc:
+  - xpath
+  - //android.widget.TextView[@text='周K']
+click_stockmonth_loc:
+  - xpath
+  - //android.widget.TextView[@text='月K']
+click_stockseason_loc:
+  - xpath
+  - //android.widget.TextView[@text='季K']
+click_stockyear_loc:
+  - xpath
+  - //android.widget.TextView[@text='年K']
+click_discussion_loc:
+  - xpath
+  - //android.widget.TextView[@text='讨论']
+click_newpost_loc:
+  - xpath
+  - //android.widget.TextView[@text='新帖']
+click_recommand_loc:
+  - xpath
+  - //android.widget.TextView[@text='推荐']
+click_title_loc:
+  - xpath
+  - //android.widget.LinearLayout[@resource-id='com.xueqiu.android:id/ll_title_content']
+click_switch_loc:
+  - xpath
+  - //android.widget.ImageView[@resource-id='com.xueqiu.android:id/arrow_right']
+click_back_loc:
+  - id
+  - com.xueqiu.android:id/action_back
+
+

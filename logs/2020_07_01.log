@@ -1,0 +1,2 @@
+2020-07-01 11:07:34,220 logger.py [line:43] CRITICAL Message: The element 'By.xpath: //android.widget.LinearLayout' does not exist in DOM anymore
+

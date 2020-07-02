@@ -1,0 +1,19 @@
+2020-06-11 16:50:03,612 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-06-11 16:54:10,553 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-06-11 16:59:32,395 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-06-11 17:01:39,556 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-06-11 17:11:50,662 logger.py [line:35] INFO 运行成功
+2020-06-11 17:12:12,093 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-06-11 18:37:40,269 logger.py [line:35] INFO 运行成功
+2020-06-11 18:38:01,063 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-06-11 18:38:01,064 logger.py [line:43] CRITICAL 'NoneType' object has no attribute 'click'
+2020-06-11 18:43:48,808 logger.py [line:35] INFO 运行成功
+2020-06-11 18:44:09,421 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-06-11 18:44:09,421 logger.py [line:43] CRITICAL 'NoneType' object has no attribute 'click'
+2020-06-11 19:05:56,849 logger.py [line:35] INFO 运行成功
+2020-06-11 19:06:18,059 logger.py [line:43] CRITICAL name 'cls' is not defined
+2020-06-11 19:09:39,047 logger.py [line:35] INFO 运行成功
+2020-06-11 19:22:22,656 logger.py [line:35] INFO 运行成功
+2020-06-11 19:22:43,729 logger.py [line:43] CRITICAL 'NoneType' object has no attribute 'click'
+2020-06-11 19:27:29,393 logger.py [line:35] INFO 运行成功
+2020-06-11 19:27:50,628 logger.py [line:43] CRITICAL 'NoneType' object has no attribute 'click'

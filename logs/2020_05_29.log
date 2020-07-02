@@ -1,0 +1,4 @@
+2020-05-29 13:47:09,183 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-05-29 13:47:42,220 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-05-29 14:05:13,231 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-05-29 14:09:36,287 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'

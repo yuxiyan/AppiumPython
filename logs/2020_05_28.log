@@ -1,0 +1,20 @@
+2020-05-28 08:21:26,734 logger.py [line:35] INFO 测试报告邮件发送成功
+2020-05-28 08:31:34,296 logger.py [line:35] INFO 测试报告邮件发送成功
+2020-05-28 08:40:11,414 logger.py [line:35] INFO 测试报告邮件发送成功
+2020-05-28 08:40:51,351 logger.py [line:35] INFO 测试报告邮件发送成功
+2020-05-28 08:42:19,924 logger.py [line:35] INFO 测试报告邮件发送成功
+2020-05-28 08:44:29,997 logger.py [line:41] ERROR 'test' != '900'
+- test
++ 900
+
+2020-05-28 08:45:02,329 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-05-28 08:45:23,286 logger.py [line:41] ERROR Message: Cannot set the element to '13770873187'. Did you interact with the correct element?
+
+2020-05-28 08:51:39,885 logger.py [line:41] ERROR 'test' != '900'
+- test
++ 900
+
+2020-05-28 08:52:10,752 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-05-28 08:52:31,708 logger.py [line:41] ERROR Message: Cannot set the element to '13770873187'. Did you interact with the correct element?
+
+2020-05-28 08:52:43,826 logger.py [line:35] INFO 测试报告邮件发送成功

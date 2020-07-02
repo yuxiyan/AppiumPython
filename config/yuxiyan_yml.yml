@@ -1,0 +1,11 @@
+platformName: Android
+platformVersion: 7.1.1
+deviceName: 9a57fa4a
+noReset: True
+noSign: True
+unicodeKeyBoard: True
+appPackage: com.xueqiu.android
+appActivity: .view.WelcomeActivityAlias
+ip: 127.0.0.1
+port: 4723
+app: /Users/xueqiu/PycharmProjects/AppiumPython/app/xueqiu.apk
