@@ -30,7 +30,7 @@ def stop_server():
 
 def ci_apk():
     log=Log()
-    url = r"http://ci.mpaas.snowballfinance.com/view/%E9%9B%AA%E7%90%83-Android/job/%E9%9B%AA%E7%90%83-Android-RC%E5%8C%85/lastSuccessfulBuild/artifact/snowball/build/outputs/apk/beta/snowball-beta.apk"
+    url = r"*lastSuccessfulBuild/artifact/snowball/build/outputs/apk/beta/snowball-beta.apk"
     try:
         r = requests.get(url)
     except Execption as e:
@@ -69,7 +69,7 @@ def set_up(self):
 
 def download_apk(self):
     res = requests.get(
-        'http://qaci3.snowballfinance.com/job/snowball-droid-us-monkey/lastSuccessfulBuild/artifact/snowball/build/outputs/apk/xueying.apk')
+        'http:*lastSuccessfulBuild/artifact/snowball/build/outputs/apk/xueying.apk')
 
     try:
         res.raise_for_status()
